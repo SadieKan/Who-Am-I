@@ -9,4 +9,4 @@ My current plan is to attend the University of Toronto to study business and eit
 
 ---
 
-# Who Am I: ## Sadie Kan
+# Who Am I: Sadie Kan
