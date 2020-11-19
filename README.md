@@ -9,4 +9,10 @@ My current plan is to attend the University of Toronto to study business and eit
 
 ---
 
-# Who Am I: Sadie Kan
+# Introduction
+- Full Name: Sadie Kan
+- Nicknames: Doe, Dia, xin yi(Chinese nickname)
+- Birthplace: Edmonton, Alberta, Canada
+- Nationality: Canadian
+- Ethnicity: Chinese
+- 
