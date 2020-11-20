@@ -38,3 +38,10 @@ My current plan is to attend the University of Toronto to study business and eit
 ---
 
 # Ethnicity Page Plan
+- My family is from Shenyang, a city that is the capital of the Liaoning Province, China
+- Most of my relatives reside in China
+- My family and I frequently visits my relatives in China
+
+## Celebrations and Customs
+Chinese New Years is one of the most well known Chinese celebrations. This day marks the start of the new year on the Lunar. The date constantly changes, usually in late January or early February. In Chinese, it is called _"Chunjie"_ which means "Spring Festival".
+- Firecrackers set off at midnight in order to scare off a monster called "Nian" that originates from a myth and to keep away bad luck. Firecrackers are also used again in the morning to welcome the new year and good luck.
