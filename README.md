@@ -56,22 +56,21 @@ My current plan is to attend the University of Toronto to study business and eit
 
   - _During this period of time, my family along with our family friends usually hold a series of large parties. Each party is takes place at a different person's house. We don't always have firecrackers, but we still put up the decorations, eat the special food, and hand out red packets at every party. We sometimes go to China to celebrate if we have the time. Even if we can't visit our family, we still send virtual red packets which we "snatch" and we also wish eachother "xin nian kuai le" or “gong xi fa cai”_
 
-
-- Every year, Chinese New Year's celebrates a zodiac animal. There are 12 zodiac animals, one for each year. The next Chinese New Year's festival in 2021 will be celebrating the year of the rat. These zodiacs also represent traits given to the people born in their year.
+### Every year, Chinese New Year's celebrates a zodiac animal. There are 12 zodiac animals, one for each year. The next Chinese New Year's festival in 2021 will be celebrating the year of the rat. These zodiacs also represent traits given to the people born in their year.
   - It is believed that your _"benming year"_ (year of your zodiac animal) is the unluckiest year for you, but it is also your rebirth year.
 
-- The Lantern Festival, celebrated on the 15th day of the first lunar month, concludes the Spring Festival (Chinese New Year). This festival takes place on the night of the first full moon in the lunar calendar and is dedicated to honoring the deceased.
+### The Lantern Festival, celebrated on the 15th day of the first lunar month, concludes the Spring Festival (Chinese New Year). This festival takes place on the night of the first full moon in the lunar calendar and is dedicated to honoring the deceased.
   - The main part of this festival is the lighting and the releasing of lanterns. The lanterns are adorned with artwork of traditional Chinese images and symbols. The Chinese word or lantern is similar to another word meaning "new-born baby boy". These lanterns represent "illuminating the future and giving birth." They are also a way for people to pray for their family and a prosperous future. Women also walk under hanging lanterns in hopes of becoming pregnant and having a baby
   - Riddles are also written on the lanterns. People crowd around hoping to find an answer. If you do have an answer, you go to the lantern owner, and if you are correct, you get a small prize.
   - Lion dances are performed at this festival in order to ward off evil and pray for fortune and safety
   - It is a tradition to eat tanyuan on this day. They represent wholeness and unity. By eating them, you are expressing your best wishes for your family and their future.
 
-- In most places around the world, your age when you are born is 0. Meanwhile, in China, a newborn baby is considered to be one year old at birth. Birthday celebrations are mainly for children and the elderly. Similar to many other Chinese celebrations, there are special foods eaten on birthdays along with traditions.
+### In most places around the world, your age when you are born is 0. Meanwhile, in China, a newborn baby is considered to be one year old at birth. Birthday celebrations are mainly for children and the elderly. Similar to many other Chinese celebrations, there are special foods eaten on birthdays along with traditions.
   - A child's first birthday in China is important and is called _"Zhuazhou"_. There is usually a ceremony in which the child chooses from an assortment of items that will determine their future inclinations/capabilities. _I had chosen an abacus on my first birthday, which represents that I might enjoy working with money and may have a future as a financier/business person._
   - Longevity noodles with an egg on top is eaten on people's birthdays. The noodles are meant to be eaten without being bitten/broken apart. This is because the noodles are meant to represent a long life, and if you break them, it is seen as bad luck and an omen that your life may be short.
   - In China, the people also have two birthdays, one following the lunar calendar, the other is the Gregorian calendar.
 
-- The Mid-Autumn Festival falls on the 15th day of the 8th month on the lunar calendar which is usually in September or early October. It is considered to be the second most important Chinese festival (after Chinese New Year) and is a day to celebrate together with your family. On this day, family members come together to eat mooncake, worship the moon, eat dinner together. and display lanterns.
+### The Mid-Autumn Festival falls on the 15th day of the 8th month on the lunar calendar which is usually in September or early October. It is considered to be the second most important Chinese festival (after Chinese New Year) and is a day to celebrate together with your family. On this day, family members come together to eat mooncake, worship the moon, eat dinner together. and display lanterns.
   - _Similar to other celebrations, either my family or one of the families we are friends with will host a party. Since moon cake is the staple of this festival, we are sure to eat lost of it. Sometimes, some of the moms will even make their own mooncakes._
 
 # Chinese: Cultural Foods
