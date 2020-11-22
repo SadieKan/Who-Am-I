@@ -52,7 +52,9 @@ Chinese New Year is one of the most well-known Chinese celebrations. This day ma
 - This celebration lasts for 15 days (16 if you count New Year's Eve)
 - Some people believe that one should not shower on New Year's Day. It is also believed that you should not sweep or throw out garbage before the fifth day of the celebrations. This is all to insure that you do not wash away the good luck.
 - On Chinese New Years, red packets (_"Hongboa"_) containing money are passed outs. This is usually given from elders to the children as it is supposed to help transfer fortune, but that are also exchanged between bosses and employees, co-workers, and friends.
+
 _During this period of time, my family along with our family friends usually hold a series of large parties. Each party is takes place at a different person's house. We don't always have firecrackers, but we still put up the decorations, eat the special food, and hand out red packets at every party. We sometimes go to China to celebrate if we have the time. Even if we can't visit our family, we still send virtual red packets which we "snatch" and we also wish eachother "xin nian kuai le" or “gong xi fa cai”_
+
 
 Every year, Chinese New Year's celebrates a zodiac animal. There are 12 zodiac animals, one for each year. The next Chinese New Year's festival in 2021 will be celebrating the year of the rat. These zodiacs also represent traits given to the people born in their year.
   - It is believed that your _"benming year"_ (year of your zodiac animal) is the unluckiest year for you, but it is also your rebirth year.
