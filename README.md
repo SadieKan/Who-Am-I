@@ -31,7 +31,7 @@ My current plan is to attend the University of Toronto to study business and eit
 - Nationality: Canadian (I was born and raised in Canada)
 - Ethnicity: Chinese
 - Languages: English (first language), Chinese (spoken at home and with relatives), and French (learnt in school)
-- I dance and I also used to play badminton, skii, and swim
+- I dance and I also used to play badminton, ski, and swim
 - I am an introvert and often enjoy working alone. Though I prefer having a friend whom I can talk to if I need help with a task/assignment.
 - Religion: I am a Protestant, which is a branch of Christianity
 
@@ -42,11 +42,12 @@ My current plan is to attend the University of Toronto to study business and eit
 - I only have two cousins (first cousins) who are both older than me: one boy, one girl.
 - My family is from Shenyang, a city that is the capital of the Liaoning Province, China
   - This was also where I resided for a few years when I was an infant
+  - Though, we do have other family members from different places in China (Beijing, Shanghai, Chongqing, etc.)
 - Most of my relatives live in China
 - My family and I frequently visit my family in China
 
 # Chinese: Celebrations and Customs
-- Chinese New Year is one of the most well-known Chinese celebrations. This day marks the start of the new year on the Lunar. The date of the celebration constantly changes, usually in late January or early February. In Chinese, it is called _"Chunjie"_ which means "Spring Festival."
+## Chinese New Year is one of the most well-known Chinese celebrations. This day marks the start of the new year on the Lunar. The date of the celebration constantly changes, usually in late January or early February. In Chinese, it is called _"Chunjie"_ which means "Spring Festival."
   - Firecrackers set off at midnight to scare off a monster called "Nian" that originates from a myth and to keep away bad luck. Firecrackers are also used again in the morning to welcome the new year and good luck.
   - Red clothing and decorations are worn/put up to also scare off the monster, Nian. Additionally, new clothing is bought as it also is thought to bring good luck.
   - This celebration lasts for 15 days (16 if you count New Year's Eve)
@@ -60,7 +61,7 @@ My current plan is to attend the University of Toronto to study business and eit
   - It is believed that your _"benming year"_ (year of your zodiac animal) is the unluckiest year for you, but it is also your rebirth year.
 
 - The Lantern Festival, celebrated on the 15th day of the first lunar month, concludes the Spring Festival (Chinese New Year). This festival takes place on the night of the first full moon in the lunar calendar and is dedicated to honoring the deceased.
-  - The main part of this festival is the lighting and the releasing of lanterns. The lanterns are adorned with artworkd of traditional Chinese images and symbols. The Chinese word or lantern is similar to another word meaning "new-born baby boy". These lanterns represent "illuminating the future and giving birth." They are also a way for people to pray for their family and a prosperous future. Women also walk under hanging lanterns in hopes of becoming pregnant and having a baby
+  - The main part of this festival is the lighting and the releasing of lanterns. The lanterns are adorned with artwork of traditional Chinese images and symbols. The Chinese word or lantern is similar to another word meaning "new-born baby boy". These lanterns represent "illuminating the future and giving birth." They are also a way for people to pray for their family and a prosperous future. Women also walk under hanging lanterns in hopes of becoming pregnant and having a baby
   - Riddles are also written on the lanterns. People crowd around hoping to find an answer. If you do have an answer, you go to the lantern owner, and if you are correct, you get a small prize.
   - Lion dances are performed at this festival in order to ward off evil and pray for fortune and safety
   - It is a tradition to eat tanyuan on this day. They represent wholeness and unity. By eating them, you are expressing your best wishes for your family and their future.
@@ -74,7 +75,17 @@ My current plan is to attend the University of Toronto to study business and eit
   - _Similar to other celebrations, either my family or one of the families we are friends with will host a party. Since moon cake is the staple of this festival, we are sure to eat lost of it. Sometimes, some of the moms will even make their own mooncakes._
 
 # Chinese: Cultural Foods
+Dumplings (_Jiaozi_/饺子)
+- Thin layer of dough wrapped around filling. This filling may include vegetables, pork, and mutton.
+- They were originally created by the physician, Zhang Zhongjing, in order to treat frostbite.
+- It is eaten on many holidays/celebrations, such as Chinese New Year.
 
+Chinese Noodles (_Miàn Tiáo_/面条)
+- My favorite foods are Chinese noodles, more specifically, _xiao mian_. Similar to how there is a variety of different types of pasta dishes, there is an abundant assortment of different Chinese noodle dishes.
+- Some of my favorite noodle dishes:
+  - Zhajiangmian: This dish consists of a "fried sauce" containing fermented yellow soybean paste and a bit of sweat fermented wheat paste. In Mandarin, _zhajiang_ means "fried sauce".
+  - Xiao Mian:
+  -
 
 ---
 
