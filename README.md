@@ -47,7 +47,7 @@ My current plan is to attend the University of Toronto to study business and eit
 - My family and I frequently visit my family in China
 
 # Chinese: Celebrations and Customs
-## Chinese New Year is one of the most well-known Chinese celebrations. This day marks the start of the new year on the Lunar. The date of the celebration constantly changes, usually in late January or early February. In Chinese, it is called _"Chunjie"_ which means "Spring Festival."
+### Chinese New Year is one of the most well-known Chinese celebrations. This day marks the start of the new year on the Lunar. The date of the celebration constantly changes, usually in late January or early February. In Chinese, it is called _"Chunjie"_ which means "Spring Festival."
   - Firecrackers set off at midnight to scare off a monster called "Nian" that originates from a myth and to keep away bad luck. Firecrackers are also used again in the morning to welcome the new year and good luck.
   - Red clothing and decorations are worn/put up to also scare off the monster, Nian. Additionally, new clothing is bought as it also is thought to bring good luck.
   - This celebration lasts for 15 days (16 if you count New Year's Eve)
