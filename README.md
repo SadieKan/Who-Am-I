@@ -31,19 +31,21 @@ My current plan is to attend the University of Toronto to study business and eit
 - Nationality: Canadian (I was born and raised in Canada)
 - Ethnicity: Chinese
 - Languages: English (first language), Chinese (spoken at home and with relatives), and French (learnt in school)
-- I play two instruments: viola and piano. I can also play the violin and cello.
+- I dance and I also used to play badminton, skii, and swim
 - I am an introvert and often enjoy working alone. Though I prefer having a friend whom I can talk to if I need help with a task/assignment.
 - Religion: I am a Protestant, which is a branch of Christianity
 
 ---
 
-# Ethnicity Page Plan
+# Family
+- I am an only child and I live with my parents in Edmonton, Alberta
+- I only have two cousins (first cousins) who are both older than me: one boy, one girl.
 - My family is from Shenyang, a city that is the capital of the Liaoning Province, China
   - This was also where I resided for a few years when I was an infant
 - Most of my relatives live in China
 - My family and I frequently visit my family in China
 
-## Celebrations and Customs
+# Chinese: Celebrations and Customs
 Chinese New Year is one of the most well-known Chinese celebrations. This day marks the start of the new year on the Lunar. The date of the celebration constantly changes, usually in late January or early February. In Chinese, it is called _"Chunjie"_ which means "Spring Festival."
 - Firecrackers set off at midnight to scare off a monster called "Nian" that originates from a myth and to keep away bad luck. Firecrackers are also used again in the morning to welcome the new year and good luck.
 - Red clothing and decorations are worn/put up to also scare off the monster, Nian. Additionally, new clothing is bought as it also is thought to bring good luck.
@@ -64,7 +66,25 @@ The Lantern Festival, celebrated on the 15th day of the first lunar month, concl
 In most places around the world, your age when you are born is 0. Meanwhile, in China, a newborn baby is considered to be one year old at birth. Birthday celebrations are mainly for children and the elderly. Similar to many other Chinese celebrations, there are special foods eaten on birthdays along with traditions.
   - A child's first birthday in China is important and is called _"Zhuazhou"_. There is usually a ceremony in which the child chooses from an assortment of items that will determine their future inclinations/capabilities. _I had chosen an abacus on my first birthday, which represents that I might enjoy working with money and may have a future as a financier/business person._
   - Longevity noodles with an egg on top is eaten on people's birthdays. The noodles are meant to be eaten without being bitten/broken apart. This is because the noodles are meant to represent a long life, and if you break them, it is seen as bad luck and an omen that your life may be short.
+  - In China, the people also have two birthdays, one following the lunar calendar, the other is the Gregorian calendar.
 
 The Mid-Autumn Festival falls on the 15th day of the 8th month on the lunar calendar which is usually in September or early October. It is considered to be the second most important Chinese festival (after Chinese New Year) and is a day to celebrate together with your family. On this day, family members come together to eat mooncake, worship the moon, eat dinner together. and display lanterns. _Similar to other celebrations, either my family or one of the families we are friends with will host a party. Since moon cake is the staple of this festival, we are sure to eat lost of it. Sometimes, some of the moms will even make their own mooncakes._
 
-  ##
+# Chinese: Cultural Foods
+
+---
+
+# Canada (Birthplace and Where I Grew Up)
+
+---
+
+# Hobbies and Pastimes
+- I have played the viola since I was 6 and the piano since I was 7. I can also play the violin, though I am not as good at it as I am the other instruments. Though I do not like going to music lessons, I enjoy finding music I like online and playing it on my instruments.
+- I enjoy art, more specifically, creating digital art, simple sketches, and sometimes acrylic painting. I am fond of drawing people, whether it be photos of random people from Pinterest or celebrities that I like. I also like to create drawings and paintings of anime characters that I like. I sometimes use these paintings as decorations for my room.
+- I like enjoy reading, especially when I am stressed. When I am reading, I become so immersed in the book and the story that I almost forget my worries. I don't have a particular genre that I like the most, per say. But I do enjoy fantasy. One of my current favorite series is "The Folk of the Air" trilogy by Holly Black.
+- Though I do not consider myself a "gamer", I do enjoy playing video games, mainly on my PC. I have recently taken a break from gaming, trying to restrict the amount of time is spend playing video games and trying not to have it get in the way of my school work.
+- I am a fan of kpop. I first started listening to kpop a little less than two years ago. I enjoy not only the music, but also the choreography for their performances and the visuals for their music videos. My current favorite kpop groups include: BTS, Straykids, Seventeen, NCT, and Ateez.
+- Along with kpop, I am also a fan of anime. I have watched anime growing up, starting with Naruto and Sailor moon. I don't have a favorite anime, but I am currently watching Jujutsu Kaisen and JJBA.
+
+- When I am home I spend most of my free time either watching YouTube/Netflix or messaging my friends on discord.
+- When I hanging out with my friends (not that much now, since there is Corona),  we mainly like to go shopping, watch a movie at someone's house (sleepover), or go to the Rec Room.
