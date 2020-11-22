@@ -74,17 +74,32 @@ My current plan is to attend the University of Toronto to study business and eit
   - _Similar to other celebrations, either my family or one of the families we are friends with will host a party. Since moon cake is the staple of this festival, we are sure to eat lost of it. Sometimes, some of the moms will even make their own mooncakes._
 
 # Chinese: Cultural Foods
-Dumplings (_Jiaozi_/饺子)
+### Dumplings (_Jiaozi_/饺子)
 - Thin layer of dough wrapped around filling. This filling may include vegetables, pork, and mutton.
 - They were originally created by the physician, Zhang Zhongjing, in order to treat frostbite.
 - It is eaten on many holidays/celebrations, such as Chinese New Year.
 
-Chinese Noodles (_Miàn Tiáo_/面条)
+### Chinese Noodles (_Miàn Tiáo_/面条)
 - My favorite foods are Chinese noodles, more specifically, _xiao mian_. Similar to how there is a variety of different types of pasta dishes, there is an abundant assortment of different Chinese noodle dishes.
 - Some of my favorite noodle dishes:
-  - Zhajiangmian: This dish consists of a "fried sauce" containing fermented yellow soybean paste and a bit of sweat fermented wheat paste. In Mandarin, _zhajiang_ means "fried sauce".
-  - Xiao Mian:
-  -
+  - Chongqing Xiao Mian: Spicy noodle dish served with thin noodles and usually a type of meat. The flavor is _"mala"_, which is spicy and numb.
+  - Zhajiangmian: This dish consists of a "fried sauce" containing fermented yellow soybean paste and a bit of sweat fermented wheat paste. In Mandarin, _zhajiang_ means "fried sauce". They also have something similar called jjajangmyeon in Korea.
+  - Sichuan Noodles: A spicy cold noodle dish that is also famous for its spicy and numbing flavors.
+
+### Tanyuan
+- It is a boiled glutinous rice ball with filling and traditionally eaten on the day of every Lantern festival and Winter Solstice. The filling is usually black sesame. Though now, you can find ones with fillings such as rose, walnut kernal, date paste, etc..
+
+### Mooncake
+- Mooncake is Chinese pastry that consists of a thick pastry skin filled with a swee, sometimes savoury, filling. They often contain a salted egg yolk in center.
+
+### Zongzi
+
+
+### Steamed Stuffed Buns
+
+
+### Chinese Pancake
+
 
 ---
 
