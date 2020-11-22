@@ -50,5 +50,9 @@ Chinese New Year is one of the most well-known Chinese celebrations. This day ma
 - This celebration lasts for 15 days (16 if you count New Year's Eve)
 - Some people believe that one should not shower on New Year's Day. It is also believed that you should not sweep or throw out garbage before the fifth day of the celebrations. This is all to insure that you do not wash away the good luck.
 - On Chinese New Years, red packets (_"Hongboa"_) containing money are passed outs. This is usually given from elders to the children as it is supposed to help transfer fortune, but that are also exchanged between bosses and employees, co-workers, and friends.
-- Every year, this celebration celebrates a zodiac animal. There are 12 zodiacs and there is an animal for each year. The next Chinese New Year's festival will be celebrating the year of the rat. These zodiacs also represent traits given to the people born in their year.
+
+Every year, Chinese New Year's celebrates a zodiac animal. There are 12 zodiacs and there is an animal for each year. The next Chinese New Year's festival in 2021 will be celebrating the year of the rat. These zodiacs also represent traits given to the people born in their year.
   - It is believed that your _"benming year"_ (year of your zodiac animal) is the unluckiest year for you, but it is also your rebirth year.
+
+In most places around the world, your age when you are born is 0. Meanwhile in China, a newborn baby is considered to be one year old at birth. Birthday celebrations are mainly reserved for children and the elderly. Similar to many other Chinese celebrations, there are special foods eaten on birthdays along with taboos and traditions.
+  - A child's first birthday in China is important and is called _"Zhuazhou"_. There is usually a ceremony in which the child chooses from an assortment of items, this item determines their future inclinations and/or capabilities. I had chosen an abacus on my first birthday, which represents a financier/business person.
