@@ -24,7 +24,7 @@ My full name is Sadie Kan. I am Chinese, but I was born and raised in Canada. I 
 
 ### 50-Word Description of My Career Plans
 My current plan is to attend the University of Toronto to study business and either law or computer science. I am currently unsure about which option to choose as I can infer that I may find computer science more interesting, but I may not be as good in the field as I would be in law. If I do go into law, I plan to become a corporate lawyer. But, if I end up studying computer science at the university, I am hoping to become somewhere along the lines of a software developer.
-
+Alberta
 ---
 
 # Introduction Plan
