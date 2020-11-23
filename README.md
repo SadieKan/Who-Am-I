@@ -131,3 +131,6 @@ Aside from Chinese class, I took many different out of school classes. I had sta
 - I have known the fact that I have wanted to study business since I was a kid.  
 - I hope to live in Toronto after I graduate from university, as my cousin lives there and can possibly help me get a good job if I choose to study computer science. Additionally, my parents and my aunt + uncle want to move to a small town near Toronto when they grow old.)
 - I want to get a small apartment near downtown Toronto and also possibly get a dog since I have wanted one since I was a kid.
+
+<nav><h1 style="font-family:'Playfair Display', serif;">Navigation</h1></nav>
+<aside><p style="font-family:'Nunito', sans-serif;">This is the aside space.</p></aside>
