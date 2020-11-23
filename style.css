@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito', sans-serif;
+}
+
+header{
+    background-image: url(../3048bcaf872501a46ae5fda4b1b2d571.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
