@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+html {
+  background-image: url('https://dg.imgix.net/receive-the-holy-spirit-6ktm37jv-en/landscape/receive-the-holy-spirit-6ktm37jv-55780588ff5244e453c841dc40fc5898.jpg?ts=1581024652&ixlib=rails-4.1.0&auto=format%2Ccompress&fit=min&w=700&h=394&dpr=2&ch=Width%2CDPR');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%
+}
+.menu ul{
+  display: inline-flex;
+  margin: 50px;
+}
+.menu ul li{
+  list-style: none;
+  margin: 0 20px;
+  color: #74a0ae;
+  cursor: pointer;
+  /*border: 1px solid red;*/
+}
+.logo img{
+  width: 50px;
+  margin-top: -15px;
+  margin-right: 30px;
+  margin-left: -10px;
+}
+.active{
+  color: #384f56 !important;
+}
+h1{
+  color: #3e879f
+}
+.main{
+  width: 80%;
+  height: 70%;
+  top: 25%;
+  position: absolute;
+}
