@@ -3,6 +3,7 @@
   padding: 0;
   font-family: sans-serif;
 }
+div {border: thin dotted red;}
 html {
   background-image: url('https://dg.imgix.net/receive-the-holy-spirit-6ktm37jv-en/landscape/receive-the-holy-spirit-6ktm37jv-55780588ff5244e453c841dc40fc5898.jpg?ts=1581024652&ixlib=rails-4.1.0&auto=format%2Ccompress&fit=min&w=700&h=394&dpr=2&ch=Width%2CDPR');
   background-repeat: no-repeat;
@@ -16,7 +17,7 @@ html {
 }
 .menu ul li{
   list-style: none;
-  margin: 0 20px;
+  margin: 0 1.5vw;
   color: #74a0ae;
   cursor: pointer;
   /*border: 1px solid red;*/
@@ -48,4 +49,13 @@ html {
   color: #756f6f;
   font-size: 1vw;
   margin-left: 1vw;
+}
+.main-text p{
+  color: #756f6f;
+  font-size: 1vw;
+  margin-left: 1vw;
+}
+.main-text h3{
+  color: #3e879f;
+  font-size: 1.5vw;
 }
