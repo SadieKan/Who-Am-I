@@ -20,6 +20,7 @@ html {
   margin: 0 1.5vw;
   color: #74a0ae;
   cursor: pointer;
+  font-size: 1vw
   /*border: 1px solid red;*/
 }
 .logo img{
@@ -39,9 +40,11 @@ html {
 .main-text{
   width: 50%;
   float: left;
+  left: 4.2vw;
+  margin-top: -9vw
 }
 .main-text h1{
-  color: #3e879f;
+  color: #52b1e7;
   font-size: 3vw;
   margin-bottom: 1vw
 }
@@ -56,6 +59,12 @@ html {
   margin-left: 1vw;
 }
 .main-text h3{
-  color: #3e879f;
+  color: #52b1e7;
   font-size: 1.5vw;
+  margin-left: 0vw;
+}
+.main img{
+  width: 32vw;
+  height: auto;
+  margin-left: 55vw
 }
