@@ -23,15 +23,15 @@ html {
 }
 .logo img{
   width: 3.5vw;
-  margin-top: -15px;
-  margin-right: 25px;
-  margin-left: -10px;
+  margin-top: -1vw;
+  margin-right: 2vw;
+  margin-left: -1vw;
 }
 .active{
   color: #384f56 !important;
 }
 .main{
-  top: 7vw;
+  top: 8vw;
   left: 4.2vw;
   position: absolute;
 }
@@ -42,6 +42,7 @@ html {
 .main-text h1{
   color: #3e879f;
   font-size: 3vw;
+  margin-bottom: 1vw
 }
 .main-text ul{
   color: #756f6f;
