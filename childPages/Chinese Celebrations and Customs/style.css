@@ -42,20 +42,24 @@ a:hover{
   float: right;
   width: 40%;
   padding-right: 2.7vw;
+  margin-bottom: 15vw;
+  margin-top: 5vw;
+}
+.column2 img {
+  padding-bottom: 4vw;
+}
+.heading{
+  color: #c93333;
+  font-size: 1.5vw;
+  margin-top: -1vw;
+  margin-left: 2.5vw;
 }
 .column {
   float: right;
   width: 60%;
   padding-left: 2.5vw;
-  padding-right: 2vw;
-}
-}
-.main h1{
-  color: #c93333;
-  font-size: 3vw;
-  margin-bottom: 1vw;
-  margin-top: -1vw;
-  margin-left: 2.5vw;
+  padding-right: 5vw;
+  padding-top: -2vw;
 }
 .main ul{
   color: black;
