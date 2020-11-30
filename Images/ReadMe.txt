@@ -6,8 +6,6 @@ Image Citations
 <!--  Date Accessed: 20201122 -->
 <cite="https://www.9to5animations.com/chinese-new-year-celebration-2017-hong-kong/">
 <!--  Date Accessed: 20201122 -->
-<cite="https://www.unimates.edu.vn/schools/lillian-osborne-school/">
-<!--  Date Accessed: 20201122 -->
 <cite="https://archello.com/story/76935/attachments/photos-videos/1">
 <!--  Date Accessed: 20201122 -->
 <cite="https://78.media.tumblr.com/5989246fe716ec50dd9923715a07b3f4/tumblr_nva69mAHQq1uga4oqo1_1280.jpg">
