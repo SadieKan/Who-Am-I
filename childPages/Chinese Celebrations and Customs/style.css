@@ -62,6 +62,9 @@ a:hover{
   padding-right: 5vw;
   padding-top: -2vw;
 }
+.main p {
+  font-size: 1vw;
+}
 .main ul{
   color: black;
   font-size: 1vw;
