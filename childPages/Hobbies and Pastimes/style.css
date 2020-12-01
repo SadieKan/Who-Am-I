@@ -48,15 +48,17 @@ a:hover{
   float: left;
   width: 60%;
   padding-top: 15px;
-  padding-left: 35px;
+  padding-left: 2vw;
+  padding-right: 5vw;
 }
 .main h1{
   color: #7fb8d6;
   font-size: 3vw;
-  margin-bottom: 1vw
+  margin-bottom: 1vw;
+  margin-top: -1vw;
 }
 .main ul{
   color: #756f6f;
-  font-size: 1vw;
-  margin-left: -1vw
+  font-size: 1.3vw;
+  margin-left: -0.5vw
 }
