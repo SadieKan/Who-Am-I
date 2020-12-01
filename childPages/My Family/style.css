@@ -60,6 +60,10 @@ a:hover{
   font-size: 1vw;
   margin-left: -1vw
 }
+footer {
+  padding-top: 35vw;
+  margin-left: 3.2vw;
+}
 footer p {
   color: #756f6f;
   font-size: 1vw;
