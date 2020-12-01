@@ -9,7 +9,7 @@ A HTML/CSS website including information about the creator, Sadie Kan.
 20201118 | November 18, 2020
 
 ### Last Date Modified
-20201130 | November 30, 2020
+20201201 | December 1, 2020
 
 ### Author
 Sadie Kan
