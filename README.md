@@ -4,13 +4,13 @@
 First HTML with Inline CSS Website Project
 
 ### 10 Word Summary
-_tbd_
+A HTML/CSS website including information about the creator, Sadie Kan.
 
 ### Date Started
 20201118 | November 18, 2020
 
 ### Last Date Modified
-20201119 | November 19, 2020
+20201130 | November 30, 2020
 
 ### Author
 Sadie Kan
