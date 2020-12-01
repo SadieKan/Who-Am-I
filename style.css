@@ -67,5 +67,12 @@ a:hover{
 .main-text h3{
   color: #7fb8d6;
   font-size: 1.5vw;
-  margin-left: 0vw;
+}
+footer {
+  margin-top: 45vw;
+  margin-left: 4.2vw;
+}
+footer p {
+  color: #756f6f;
+  font-size: 1vw;
 }
