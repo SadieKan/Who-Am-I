@@ -43,19 +43,18 @@ a:hover{
   width: 40%;
   padding-left: 50px;
 }
-
 .column2 {
   float: left;
   width: 60%;
   padding-top: 15px;
-  padding-left: 2vw;
+  padding-left: 5vw;
   padding-right: 5vw;
 }
 .main h1{
   color: #7fb8d6;
   font-size: 3vw;
   margin-bottom: 1vw;
-  margin-top: -1vw;
+  margin-top: 6vw;
 }
 .main ul{
   color: #756f6f;
